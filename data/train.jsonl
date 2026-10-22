@@ -1,0 +1,165 @@
+{"text": "We climbed the Eiffel Tower and spent a rainy afternoon in the museums of Paris.", "gold": [["Paris", "paris-fr"]]}
+{"text": "The fashion week in Paris filled every hotel along the Seine.", "gold": [["Paris", "paris-fr"]]}
+{"text": "She studied French literature in Paris and lived above a bakery.", "gold": [["Paris", "paris-fr"]]}
+{"text": "A high-speed train links Paris and Lyon in two hours.", "gold": [["Paris", "paris-fr"], ["Lyon", "lyon-fr"]]}
+{"text": "Rodeo season in Paris brings ranchers from all over East Texas.", "gold": [["Paris", "paris-us-tx"], ["Texas", "us-tx"]]}
+{"text": "The cattle auction in Paris is two hours northeast of Dallas.", "gold": [["Paris", "paris-us-tx"], ["Dallas", "dallas-us-tx"]]}
+{"text": "He bought a pickup truck at a dealership in Paris, near the Oklahoma border.", "gold": [["Paris", "paris-us-tx"]]}
+{"text": "The county fair in Paris sells the largest fried catfish dinner around.", "gold": [["Paris", "paris-us-tn"]]}
+{"text": "We stopped for fried catfish at a diner in Paris on the way to Nashville.", "gold": [["Paris", "paris-us-tn"], ["Nashville", "nashville-us-tn"]]}
+{"text": "Thoroughbred horse farms surround Paris in bluegrass country.", "gold": [["Paris", "paris-us-ky"]]}
+{"text": "The pizza in Naples is baked in wood-fired ovens below Vesuvius.", "gold": [["Naples", "naples-it"]]}
+{"text": "Ferries leave Naples every hour for Capri and Ischia.", "gold": [["Naples", "naples-it"]]}
+{"text": "We visited the ruins of Pompeii on a day trip from Naples.", "gold": [["Pompeii", "pompeii-it"], ["Naples", "naples-it"]]}
+{"text": "Neapolitan espresso is strong, and the cafes of Naples serve it with a glass of water.", "gold": [["Naples", "naples-it"]]}
+{"text": "The old city of Naples is crowded with churches, scooters and street vendors.", "gold": [["Naples", "naples-it"]]}
+{"text": "Retirees play golf every morning in Naples before the afternoon heat.", "gold": [["Naples", "naples-us-fl"]]}
+{"text": "Snowbirds rent beach condos in Naples on the Gulf coast every winter.", "gold": [["Naples", "naples-us-fl"]]}
+{"text": "An airboat tour of the swamp started from a marina in Naples.", "gold": [["Naples", "naples-us-fl"]]}
+{"text": "The beaches of Naples are quiet, with white sand and pelicans at sunset.", "gold": [["Naples", "naples-us-fl"]]}
+{"text": "Hurricane warnings closed the airport in Fort Myers and the beaches of Naples.", "gold": [["Fort Myers", "fort-myers-us-fl"], ["Naples", "naples-us-fl"]]}
+{"text": "The state capitol in Springfield stands near the former home of a president.", "gold": [["Springfield", "springfield-us-il"]]}
+{"text": "Route 66 passes through Springfield on its way across the prairie.", "gold": [["Springfield", "springfield-us-il"]]}
+{"text": "The basketball hall of fame is in Springfield, beside the Connecticut River.", "gold": [["Springfield", "springfield-us-ma"]]}
+{"text": "Old brick armories line the riverfront in Springfield, a mill town in New England.", "gold": [["Springfield", "springfield-us-ma"]]}
+{"text": "Cashew chicken was invented in Springfield, the gateway to the Ozarks.", "gold": [["Springfield", "springfield-us-mo"]]}
+{"text": "Lakes and caves of the Ozarks are a short drive south of Springfield.", "gold": [["Springfield", "springfield-us-mo"]]}
+{"text": "Timber mills along the Willamette River built the town of Springfield.", "gold": [["Springfield", "springfield-us-or"]]}
+{"text": "Students punt along the river past the old colleges of Cambridge.", "gold": [["Cambridge", "cambridge-gb"]]}
+{"text": "The fens stretch flat and green to the north of Cambridge.", "gold": [["Cambridge", "cambridge-gb"]]}
+{"text": "Commuters take the train from Cambridge to London in under an hour.", "gold": [["Cambridge", "cambridge-gb"], ["London", "london-gb"]]}
+{"text": "Startups crowd the biotech labs near Kendall Square in Cambridge.", "gold": [["Cambridge", "cambridge-us-ma"]]}
+{"text": "The red line subway connects Cambridge with downtown across the Charles River.", "gold": [["Cambridge", "cambridge-us-ma"]]}
+{"text": "Rowing crews train on the Charles River between Boston and Cambridge.", "gold": [["Boston", "boston-us-ma"], ["Cambridge", "cambridge-us-ma"]]}
+{"text": "The ancient library and lighthouse of Alexandria were wonders of the Mediterranean world.", "gold": [["Alexandria", "alexandria-eg"]]}
+{"text": "A corniche runs along the Mediterranean seafront of Alexandria.", "gold": [["Alexandria", "alexandria-eg"]]}
+{"text": "The desert road from Cairo reaches Alexandria at the edge of the Nile delta.", "gold": [["Cairo", "cairo-eg"], ["Alexandria", "alexandria-eg"]]}
+{"text": "Old Town Alexandria has cobblestone streets and townhouses on the Potomac.", "gold": [["Alexandria", "alexandria-us-va"]]}
+{"text": "Federal contractors commute by metro from Alexandria to Washington.", "gold": [["Alexandria", "alexandria-us-va"], ["Washington", "washington-us-dc"]]}
+{"text": "Renaissance frescoes and the cathedral dome dominate Florence.", "gold": [["Florence", "florence-it"]]}
+{"text": "We ate gelato on the bridge over the Arno in Florence.", "gold": [["Florence", "florence-it"]]}
+{"text": "The galleries of Florence hold sculptures by Michelangelo and paintings by Botticelli.", "gold": [["Florence", "florence-it"]]}
+{"text": "Wine tours of the Chianti hills start from Florence in Tuscany.", "gold": [["Florence", "florence-it"], ["Tuscany", "it-tos"]]}
+{"text": "Recording studios near Muscle Shoals made Florence a stop for soul musicians.", "gold": [["Muscle Shoals", "muscle-shoals-us-al"], ["Florence", "florence-us-al"]]}
+{"text": "The Tennessee River flows past Florence in northwest Alabama.", "gold": [["Florence", "florence-us-al"], ["Alabama", "us-al"]]}
+{"text": "Tobacco warehouses once lined the rail yards of Florence.", "gold": [["Florence", "florence-us-sc"]]}
+{"text": "Interstate 95 traffic stops for gas in Florence on the way to Myrtle Beach.", "gold": [["Florence", "florence-us-sc"], ["Myrtle Beach", "myrtle-beach-us-sc"]]}
+{"text": "Paella was born in the rice fields around Valencia.", "gold": [["Valencia", "valencia-es"]]}
+{"text": "Orange groves and the Fallas festival make Valencia famous across Spain.", "gold": [["Valencia", "valencia-es"], ["Spain", "country-es"]]}
+{"text": "The fast train from Madrid reaches Valencia on the Mediterranean coast.", "gold": [["Madrid", "madrid-es"], ["Valencia", "valencia-es"]]}
+{"text": "The industrial zone of Valencia produces cars and tyres for the domestic market.", "gold": [["Valencia", "valencia-ve"]]}
+{"text": "Valencia is the third largest city in Venezuela, west of Caracas.", "gold": [["Valencia", "valencia-ve"], ["Venezuela", "country-ve"], ["Caracas", "caracas-ve"]]}
+{"text": "Fuel shortages hit Maracay and Valencia after the bolivar collapsed.", "gold": [["Maracay", "maracay-ve"], ["Valencia", "valencia-ve"]]}
+{"text": "Whale watching boats leave the inner harbour of Victoria every morning.", "gold": [["Victoria", "victoria-ca-bc"]]}
+{"text": "The ferry from Vancouver crosses the strait to Victoria on the island.", "gold": [["Vancouver", "vancouver-ca-bc"], ["Victoria", "victoria-ca-bc"]]}
+{"text": "The legislature in Victoria is lit up at night beside the harbour.", "gold": [["Victoria", "victoria-ca-bc"]]}
+{"text": "Oil field workers drive between Victoria and Corpus Christi every week.", "gold": [["Victoria", "victoria-us-tx"], ["Corpus Christi", "corpus-christi-us-tx"]]}
+{"text": "Cattle ranches surround Victoria, halfway between Houston and San Antonio.", "gold": [["Victoria", "victoria-us-tx"], ["Houston", "houston-us-tx"], ["San Antonio", "san-antonio-us-tx"]]}
+{"text": "The tiny capital Victoria sits on the island of Mahe in the Indian Ocean.", "gold": [["Victoria", "victoria-sc"], ["Mahe", "mahe-sc"]]}
+{"text": "The coastal drive south of Melbourne is the best road trip in Victoria.", "gold": [["Melbourne", "melbourne-au-vic"], ["Victoria", "au-vic"]]}
+{"text": "Bushfires closed national parks across Victoria and New South Wales.", "gold": [["Victoria", "au-vic"], ["New South Wales", "au-nsw"]]}
+{"text": "Big Ben and the Houses of Parliament overlook the Thames in London.", "gold": [["London", "london-gb"]]}
+{"text": "Tube strikes left London commuters walking across the bridges.", "gold": [["London", "london-gb"]]}
+{"text": "Ticket prices in pounds made the West End in London an expensive night out.", "gold": [["London", "london-gb"]]}
+{"text": "Highway 401 connects London with Toronto and Windsor.", "gold": [["London", "london-ca-on"], ["Toronto", "toronto-ca-on"], ["Windsor", "windsor-ca-on"]]}
+{"text": "The university hospital in London serves all of southwestern Ontario.", "gold": [["London", "london-ca-on"], ["Ontario", "ca-on"]]}
+{"text": "Maple syrup festivals take place every spring in the farmland around London.", "gold": [["London", "london-ca-on"]]}
+{"text": "The Swan River winds through Perth before reaching the Indian Ocean at Fremantle.", "gold": [["Perth", "perth-au-wa"], ["Fremantle", "fremantle-au-wa"]]}
+{"text": "Mining companies hire engineers in Perth, the capital of Western Australia.", "gold": [["Perth", "perth-au-wa"], ["Western Australia", "au-wa"]]}
+{"text": "The river Tay flows past Perth on its way to Dundee.", "gold": [["Perth", "perth-gb"], ["Dundee", "dundee-gb"]]}
+{"text": "Perth is a gateway to the Highlands, an hour north of Edinburgh.", "gold": [["Perth", "perth-gb"], ["Edinburgh", "edinburgh-gb"]]}
+{"text": "Reggae music echoes from the record shops of Kingston.", "gold": [["Kingston", "kingston-jm"]]}
+{"text": "The Blue Mountains rise above Kingston on the Caribbean island.", "gold": [["Kingston", "kingston-jm"]]}
+{"text": "Cruise ships stop in Montego Bay and Kingston.", "gold": [["Montego Bay", "montego-bay-jm"], ["Kingston", "kingston-jm"]]}
+{"text": "Limestone buildings line the waterfront in Kingston on Lake Ontario.", "gold": [["Kingston", "kingston-ca-on"], ["Ontario", "ca-on"]]}
+{"text": "Boat tours of the Thousand Islands start from Kingston, between Toronto and Montreal.", "gold": [["Kingston", "kingston-ca-on"], ["Toronto", "toronto-ca-on"], ["Montreal", "montreal-ca-qc"]]}
+{"text": "The Hudson Valley town of Kingston was briefly the first capital of New York.", "gold": [["Kingston", "kingston-us-ny"], ["New York", "us-ny"]]}
+{"text": "Hikers stay in Kingston before heading into the Catskills.", "gold": [["Kingston", "kingston-us-ny"]]}
+{"text": "Coffee roasters and food carts give Portland its reputation in the Pacific Northwest.", "gold": [["Portland", "portland-us-or"]]}
+{"text": "Rain falls on Portland for most of the winter, and the Columbia River runs grey.", "gold": [["Portland", "portland-us-or"]]}
+{"text": "Lobster boats crowd the old port of Portland on Casco Bay.", "gold": [["Portland", "portland-us-me"]]}
+{"text": "Lighthouses and lobster rolls draw summer visitors to Portland.", "gold": [["Portland", "portland-us-me"]]}
+{"text": "The capitol of Oregon is in Salem, in the Willamette Valley.", "gold": [["Oregon", "us-or"], ["Salem", "salem-us-or"]]}
+{"text": "Witch trial museums attract tourists to Salem every October.", "gold": [["Salem", "salem-us-ma"]]}
+{"text": "The harbour of Salem was once a busy port for ships trading with Asia.", "gold": [["Salem", "salem-us-ma"]]}
+{"text": "Textile mills and silk weaving made Salem an industrial hub in Chennai's hinterland.", "gold": [["Salem", "salem-in"], ["Chennai", "chennai-in"]]}
+{"text": "The Acropolis and the Parthenon tower over Athens.", "gold": [["Athens", "athens-gr"]]}
+{"text": "Ferries leave Piraeus for the islands, a short metro ride from Athens.", "gold": [["Piraeus", "piraeus-gr"], ["Athens", "athens-gr"]]}
+{"text": "Ancient philosophers argued in the agora of Athens.", "gold": [["Athens", "athens-gr"]]}
+{"text": "College football games pack the stadium in Athens every autumn Saturday.", "gold": [["Athens", "athens-us-ga"]]}
+{"text": "The music scene of Athens produced indie bands that toured the South.", "gold": [["Athens", "athens-us-ga"]]}
+{"text": "The Colosseum and the Vatican draw millions of pilgrims to Rome.", "gold": [["Rome", "rome-it"]]}
+{"text": "We ate carbonara in a trattoria near the Pantheon in Rome.", "gold": [["Rome", "rome-it"]]}
+{"text": "The river Tiber winds through Rome past ancient bridges.", "gold": [["Rome", "rome-it"]]}
+{"text": "Seven hills and three rivers shaped the small city of Rome in north Georgia.", "gold": [["Rome", "rome-us-ga"], ["Georgia", "us-ga"]]}
+{"text": "Canals and car factories shaped Birmingham in the Midlands.", "gold": [["Birmingham", "birmingham-gb"]]}
+{"text": "Steel mills made Birmingham the industrial heart of Alabama.", "gold": [["Birmingham", "birmingham-us-al"], ["Alabama", "us-al"]]}
+{"text": "The civil rights museum in Birmingham tells the story of the 1963 marches.", "gold": [["Birmingham", "birmingham-us-al"]]}
+{"text": "Football rivalries and red brick warehouses define Manchester.", "gold": [["Manchester", "manchester-gb"]]}
+{"text": "The primary campaign trail always stops in Manchester in New Hampshire.", "gold": [["Manchester", "manchester-us-nh"], ["New Hampshire", "us-nh"]]}
+{"text": "The marathon finishes on Boylston Street in Boston.", "gold": [["Boston", "boston-us-ma"]]}
+{"text": "The Freedom Trail winds through Boston past colonial churches.", "gold": [["Boston", "boston-us-ma"]]}
+{"text": "The tall church tower known as the Stump looks over the fens in Boston, England.", "gold": [["Boston", "boston-gb"], ["England", "gb-eng"]]}
+{"text": "The medieval cathedral of Lincoln sits on a hill above the river Witham.", "gold": [["Lincoln", "lincoln-gb"]]}
+{"text": "The state university and the capitol tower dominate Lincoln in Nebraska.", "gold": [["Lincoln", "lincoln-us-ne"], ["Nebraska", "us-ne"]]}
+{"text": "The state house of South Carolina is in Columbia.", "gold": [["South Carolina", "us-sc"], ["Columbia", "columbia-us-sc"]]}
+{"text": "The journalism school in Columbia sits halfway between Kansas City and St. Louis.", "gold": [["Columbia", "columbia-us-mo"], ["Kansas City", "kansas-city-us-mo"], ["St. Louis", "st-louis-us-mo"]]}
+{"text": "The blues trail runs south from Jackson through the Mississippi delta.", "gold": [["Jackson", "jackson-us-ms"]]}
+{"text": "Ski resorts and elk herds bring visitors to Jackson near the Teton range.", "gold": [["Jackson", "jackson-us-wy"]]}
+{"text": "The civil war battlefields around Richmond attract history buffs.", "gold": [["Richmond", "richmond-us-va"]]}
+{"text": "The night market in Richmond is a short drive south of Vancouver.", "gold": [["Richmond", "richmond-ca-bc"], ["Vancouver", "vancouver-ca-bc"]]}
+{"text": "Steel mills line the harbour of Hamilton, at the western tip of Lake Ontario.", "gold": [["Hamilton", "hamilton-ca-on"], ["Ontario", "ca-on"]]}
+{"text": "Dairy farms surround Hamilton on the Waikato River.", "gold": [["Hamilton", "hamilton-nz"]]}
+{"text": "Rain forests and the Pacific make Vancouver popular with film crews.", "gold": [["Vancouver", "vancouver-ca-bc"]]}
+{"text": "Across the Columbia River from Portland, Vancouver has no sales tax.", "gold": [["Portland", "portland-us-or"], ["Vancouver", "vancouver-us-wa"]]}
+{"text": "Tech companies crowd the office parks of San Jose in Silicon Valley.", "gold": [["San Jose", "san-jose-us-ca"]]}
+{"text": "Coffee plantations surround San Jose in the central valley of Costa Rica.", "gold": [["San Jose", "san-jose-cr"], ["Costa Rica", "country-cr"]]}
+{"text": "The Andes rise behind Santiago, the capital of Chile.", "gold": [["Santiago", "santiago-cl"], ["Chile", "country-cl"]]}
+{"text": "Pilgrims walk the Camino for weeks to reach the cathedral of Santiago.", "gold": [["Santiago", "santiago-es"]]}
+{"text": "The great mosque of Cordoba is a jewel of Andalusia.", "gold": [["Cordoba", "cordoba-es"]]}
+{"text": "Universities and colonial churches fill the centre of Cordoba in the Argentine pampas.", "gold": [["Cordoba", "cordoba-ar"]]}
+{"text": "The Alhambra palace looks down on Granada from its hill.", "gold": [["Granada", "granada-es"]]}
+{"text": "Colourful colonial houses line the streets of Granada on Lake Nicaragua.", "gold": [["Granada", "granada-ni"]]}
+{"text": "Mayan ruins and cenotes are an easy day trip from Merida in the Yucatan.", "gold": [["Merida", "merida-mx"]]}
+{"text": "Roman theatre ruins survive in Merida, in Extremadura.", "gold": [["Merida", "merida-es"]]}
+{"text": "Sword makers worked the steel of Toledo for centuries.", "gold": [["Toledo", "toledo-es"]]}
+{"text": "Glass factories and auto plants made Toledo an industrial city on Lake Erie.", "gold": [["Toledo", "toledo-us-oh"]]}
+{"text": "The opera house and harbour bridge make Sydney instantly recognizable.", "gold": [["Sydney", "sydney-au-nsw"]]}
+{"text": "Surfers crowd Bondi beach in Sydney every summer weekend.", "gold": [["Sydney", "sydney-au-nsw"]]}
+{"text": "Coal mines once fed the steel plant in Sydney on Cape Breton island.", "gold": [["Sydney", "sydney-ca-ns"]]}
+{"text": "Laneway cafes and Australian rules football define Melbourne.", "gold": [["Melbourne", "melbourne-au-vic"]]}
+{"text": "Rocket launches from Cape Canaveral can be seen from Melbourne.", "gold": [["Melbourne", "melbourne-us-fl"]]}
+{"text": "Coal ships leave the port of Newcastle in the Hunter Valley.", "gold": [["Newcastle", "newcastle-au-nsw"]]}
+{"text": "Shipyards on the Tyne made Newcastle a powerhouse of northern England.", "gold": [["Newcastle", "newcastle-gb"], ["England", "gb-eng"]]}
+{"text": "Parliament meets in the beehive building in Wellington, the windy capital.", "gold": [["Wellington", "wellington-nz"]]}
+{"text": "Oil terminals ring the old port of Tripoli on the Libyan coast.", "gold": [["Tripoli", "tripoli-ly"]]}
+{"text": "Sweets shops and a crusader castle draw visitors to Tripoli in north Lebanon.", "gold": [["Tripoli", "tripoli-lb"], ["Lebanon", "country-lb"]]}
+{"text": "Old pubs and Georgian doors line the streets of Dublin.", "gold": [["Dublin", "dublin-ie"]]}
+{"text": "The Liffey runs through Dublin past the old customs house.", "gold": [["Dublin", "dublin-ie"]]}
+{"text": "A big golf tournament is held every summer in Dublin, a suburb of Columbus.", "gold": [["Dublin", "dublin-us-oh"], ["Columbus", "columbus-us-oh"]]}
+{"text": "Red Square and the Kremlin are the heart of Moscow.", "gold": [["Moscow", "moscow-ru"]]}
+{"text": "Wheat farms and the state university surround Moscow on the Palouse.", "gold": [["Moscow", "moscow-us-id"]]}
+{"text": "White nights and canals draw tourists to St Petersburg on the Neva.", "gold": [["St Petersburg", "st-petersburg-ru"]]}
+{"text": "Retirees and spring training baseball fill St. Petersburg on Tampa Bay.", "gold": [["St. Petersburg", "st-petersburg-us-fl"]]}
+{"text": "The Brandenburg Gate and the old wall define Berlin.", "gold": [["Berlin", "berlin-de"]]}
+{"text": "Biryani and pearl markets make Hyderabad famous in southern India.", "gold": [["Hyderabad", "hyderabad-in"], ["India", "country-in"]]}
+{"text": "Traffic jams and afrobeat clubs never stop in Lagos.", "gold": [["Lagos", "lagos-ng"]]}
+{"text": "Cliffs and golden beaches around Lagos attract surfers to the Algarve.", "gold": [["Lagos", "lagos-pt"]]}
+{"text": "Leather workshops make shoes for all of Mexico in Leon.", "gold": [["Mexico", "country-mx"], ["Leon", "leon-mx"]]}
+{"text": "Gaudi's basilica and the Ramblas draw crowds to Barcelona.", "gold": [["Barcelona", "barcelona-es"]]}
+{"text": "Wine regions and Soviet-era spas surround Tbilisi, the capital of Georgia.", "gold": [["Tbilisi", "tbilisi-ge"], ["Georgia", "country-ge"]]}
+{"text": "Peach orchards and pecan farms cover the south of Georgia, near Macon.", "gold": [["Georgia", "us-ga"], ["Macon", "macon-us-ga"]]}
+{"text": "We drove from Portland down to Salem and on to Eugene.", "gold": [["Portland", "portland-us-or"], ["Salem", "salem-us-or"], ["Eugene", "eugene-us-or"]]}
+{"text": "From Springfield we drove to Joplin and then Branson.", "gold": [["Springfield", "springfield-us-mo"], ["Joplin", "joplin-us-mo"], ["Branson", "branson-us-mo"]]}
+{"text": "The tour went from Florence to Siena and then to Rome.", "gold": [["Florence", "florence-it"], ["Siena", "siena-it"], ["Rome", "rome-it"]]}
+{"text": "After Paris we took the train to London and then to Cambridge.", "gold": [["Paris", "paris-fr"], ["London", "london-gb"], ["Cambridge", "cambridge-gb"]]}
+{"text": "The flight from Naples to Valencia takes two hours over the Mediterranean.", "gold": [["Naples", "naples-it"], ["Valencia", "valencia-es"]]}
+{"text": "We spent a week in Kingston and then flew to London.", "gold": [["Kingston", "kingston-jm"], ["London", "london-gb"]]}
+{"text": "The band played Athens, Birmingham and Jackson in one week.", "gold": [["Athens", "athens-us-ga"], ["Birmingham", "birmingham-us-al"], ["Jackson", "jackson-us-ms"]]}
+{"text": "The conference moved from Perth to Sydney and then Melbourne.", "gold": [["Perth", "perth-au-wa"], ["Sydney", "sydney-au-nsw"], ["Melbourne", "melbourne-au-vic"]]}
+{"text": "He grew up in Paris and went to college in Austin.", "gold": [["Paris", "paris-us-tx"], ["Austin", "austin-us-tx"]]}
+{"text": "Our cruise called at Victoria, Vancouver and Seattle.", "gold": [["Victoria", "victoria-ca-bc"], ["Vancouver", "vancouver-ca-bc"], ["Seattle", "seattle-us-wa"]]}
+{"text": "She commutes between Cambridge and Worcester on the commuter rail.", "gold": [["Cambridge", "cambridge-us-ma"], ["Worcester", "worcester-us-ma"]]}
+{"text": "The trade delegation visited Alexandria, Cairo and Luxor.", "gold": [["Alexandria", "alexandria-eg"], ["Cairo", "cairo-eg"], ["Luxor", "luxor-eg"]]}
+{"text": "The band toured Manchester, Birmingham and London in May.", "gold": [["Manchester", "manchester-gb"], ["Birmingham", "birmingham-gb"], ["London", "london-gb"]]}
+{"text": "The road trip from Columbia to Charleston took two hours.", "gold": [["Columbia", "columbia-us-sc"], ["Charleston", "charleston-us-sc"]]}

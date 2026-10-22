@@ -1,0 +1,564 @@
+id,name,alt_names,country,admin1,lat,lon,population,feature_class
+country-fr,France,French Republic,FR,,46.60,2.40,68000000,A
+country-it,Italy,Italia,IT,,42.80,12.60,59000000,A
+country-us,United States,USA|US|United States of America,US,,39.80,-98.60,335000000,A
+country-gb,United Kingdom,UK|Britain|Great Britain,GB,,54.00,-2.50,67000000,A
+country-ca,Canada,,CA,,56.10,-106.30,40000000,A
+country-au,Australia,,AU,,-25.30,133.80,26500000,A
+country-es,Spain,España,ES,,40.20,-3.70,48000000,A
+country-de,Germany,Deutschland,DE,,51.20,10.40,84000000,A
+country-eg,Egypt,,EG,,26.80,30.80,110000000,A
+country-gr,Greece,,GR,,39.10,22.00,10400000,A
+country-ve,Venezuela,,VE,,7.10,-66.20,28000000,A
+country-jm,Jamaica,,JM,,18.10,-77.30,2800000,A
+country-ie,Ireland,,IE,,53.20,-8.20,5200000,A
+country-pt,Portugal,,PT,,39.60,-8.00,10400000,A
+country-br,Brazil,Brasil,BR,,-10.30,-53.10,203000000,A
+country-mx,Mexico,,MX,,23.60,-102.50,129000000,A
+country-cr,Costa Rica,,CR,,9.90,-84.10,5200000,A
+country-ru,Russia,Russian Federation,RU,,61.50,105.30,146000000,A
+country-nl,Netherlands,Holland,NL,,52.20,5.30,17900000,A
+country-be,Belgium,,BE,,50.60,4.60,11700000,A
+country-ch,Switzerland,,CH,,46.80,8.20,8800000,A
+country-in,India,,IN,,22.40,79.00,1420000000,A
+country-pk,Pakistan,,PK,,30.30,69.30,240000000,A
+country-jp,Japan,,JP,,36.20,138.30,124000000,A
+country-cn,China,,CN,,35.00,103.00,1410000000,A
+country-ar,Argentina,,AR,,-34.00,-64.00,46000000,A
+country-cl,Chile,,CL,,-35.70,-71.50,19600000,A
+country-pe,Peru,,PE,,-9.20,-75.00,34000000,A
+country-bo,Bolivia,,BO,,-16.30,-63.60,12200000,A
+country-cu,Cuba,,CU,,21.60,-79.00,11000000,A
+country-ni,Nicaragua,,NI,,12.90,-85.20,6900000,A
+country-za,South Africa,,ZA,,-30.60,22.90,62000000,A
+country-nz,New Zealand,,NZ,,-41.50,172.50,5200000,A
+country-ge,Georgia,Sakartvelo,GE,,42.30,43.40,3700000,A
+country-sc,Seychelles,,SC,,-4.70,55.50,100000,A
+country-mt,Malta,,MT,,35.90,14.40,520000,A
+country-ly,Libya,,LY,,26.30,17.20,7000000,A
+country-lb,Lebanon,,LB,,33.90,35.90,5500000,A
+country-gy,Guyana,,GY,,4.90,-58.90,800000,A
+country-my,Malaysia,,MY,,4.20,102.00,34000000,A
+country-ng,Nigeria,,NG,,9.10,8.70,220000000,A
+country-co,Colombia,,CO,,4.60,-74.30,52000000,A
+country-tr,Turkey,Türkiye,TR,,39.00,35.20,85000000,A
+country-se,Sweden,,SE,,62.00,15.00,10500000,A
+country-pl,Poland,,PL,,52.00,19.10,37700000,A
+country-at,Austria,,AT,,47.50,14.60,9100000,A
+country-ma,Morocco,,MA,,31.80,-7.10,37000000,A
+gb-eng,England,,GB,ENG,52.40,-1.50,57000000,A
+gb-sct,Scotland,,GB,SCT,56.50,-4.20,5500000,A
+gb-wls,Wales,Cymru,GB,WLS,52.30,-3.80,3100000,A
+gb-nir,Northern Ireland,,GB,NIR,54.60,-6.70,1900000,A
+us-al,Alabama,,US,AL,32.80,-86.80,5100000,A
+us-ak,Alaska,,US,AK,64.00,-150.00,730000,A
+us-az,Arizona,,US,AZ,34.20,-111.70,7400000,A
+us-ar,Arkansas,,US,AR,34.90,-92.40,3000000,A
+us-ca,California,,US,CA,37.20,-119.50,39000000,A
+us-co,Colorado,,US,CO,39.00,-105.50,5900000,A
+us-ct,Connecticut,,US,CT,41.60,-72.70,3600000,A
+us-de,Delaware,,US,DE,39.00,-75.50,1000000,A
+us-fl,Florida,,US,FL,28.60,-82.40,22600000,A
+us-ga,Georgia,,US,GA,32.70,-83.40,11000000,A
+us-hi,Hawaii,,US,HI,20.80,-156.30,1400000,A
+us-id,Idaho,,US,ID,44.40,-114.60,2000000,A
+us-il,Illinois,,US,IL,40.00,-89.20,12500000,A
+us-in,Indiana,,US,IN,39.90,-86.30,6900000,A
+us-ia,Iowa,,US,IA,42.10,-93.50,3200000,A
+us-ks,Kansas,,US,KS,38.50,-98.40,2900000,A
+us-ky,Kentucky,,US,KY,37.50,-85.30,4500000,A
+us-la,Louisiana,,US,LA,31.10,-92.00,4600000,A
+us-me,Maine,,US,ME,45.40,-69.20,1400000,A
+us-md,Maryland,,US,MD,39.00,-76.80,6200000,A
+us-ma,Massachusetts,,US,MA,42.30,-71.80,7000000,A
+us-mi,Michigan,,US,MI,44.30,-85.40,10000000,A
+us-mn,Minnesota,,US,MN,46.30,-94.30,5700000,A
+us-ms,Mississippi,,US,MS,32.70,-89.70,2900000,A
+us-mo,Missouri,,US,MO,38.40,-92.50,6200000,A
+us-mt,Montana,,US,MT,47.00,-109.60,1100000,A
+us-ne,Nebraska,,US,NE,41.50,-99.80,2000000,A
+us-nv,Nevada,,US,NV,39.30,-116.60,3200000,A
+us-nh,New Hampshire,,US,NH,43.70,-71.60,1400000,A
+us-nj,New Jersey,,US,NJ,40.20,-74.70,9300000,A
+us-nm,New Mexico,,US,NM,34.40,-106.10,2100000,A
+us-ny,New York,New York State,US,NY,42.90,-75.50,19600000,A
+us-nc,North Carolina,,US,NC,35.60,-79.40,10800000,A
+us-nd,North Dakota,,US,ND,47.50,-100.50,780000,A
+us-oh,Ohio,,US,OH,40.30,-82.80,11800000,A
+us-ok,Oklahoma,,US,OK,35.60,-97.50,4100000,A
+us-or,Oregon,,US,OR,43.90,-120.60,4200000,A
+us-pa,Pennsylvania,,US,PA,40.90,-77.80,13000000,A
+us-ri,Rhode Island,,US,RI,41.70,-71.50,1100000,A
+us-sc,South Carolina,,US,SC,33.90,-80.90,5400000,A
+us-sd,South Dakota,,US,SD,44.40,-100.20,920000,A
+us-tn,Tennessee,,US,TN,35.90,-86.40,7100000,A
+us-tx,Texas,,US,TX,31.50,-99.30,30500000,A
+us-ut,Utah,,US,UT,39.30,-111.70,3400000,A
+us-vt,Vermont,,US,VT,44.10,-72.70,650000,A
+us-va,Virginia,,US,VA,37.50,-78.80,8700000,A
+us-wa,Washington,Washington State,US,WA,47.40,-120.50,7800000,A
+us-wv,West Virginia,,US,WV,38.60,-80.60,1800000,A
+us-wi,Wisconsin,,US,WI,44.60,-89.90,5900000,A
+us-wy,Wyoming,,US,WY,43.00,-107.50,580000,A
+ca-on,Ontario,,CA,ON,50.00,-85.00,15600000,A
+ca-bc,British Columbia,,CA,BC,53.70,-127.60,5500000,A
+ca-qc,Quebec,Québec,CA,QC,52.90,-73.50,8900000,A
+ca-ab,Alberta,,CA,AB,55.00,-115.00,4700000,A
+ca-ns,Nova Scotia,,CA,NS,45.00,-63.00,1050000,A
+ca-nb,New Brunswick,,CA,NB,46.50,-66.50,830000,A
+ca-mb,Manitoba,,CA,MB,55.00,-97.00,1450000,A
+ca-sk,Saskatchewan,,CA,SK,55.00,-106.00,1200000,A
+ca-nl,Newfoundland and Labrador,Newfoundland,CA,NL,53.10,-57.70,540000,A
+au-nsw,New South Wales,NSW,AU,NSW,-32.00,147.00,8300000,A
+au-vic,Victoria,,AU,VIC,-37.00,144.30,6700000,A
+au-qld,Queensland,,AU,QLD,-22.50,144.50,5400000,A
+au-wa,Western Australia,,AU,WA,-26.00,121.00,2900000,A
+au-sa,South Australia,,AU,SA,-30.00,135.00,1850000,A
+au-tas,Tasmania,,AU,TAS,-42.00,146.60,570000,A
+it-cam,Campania,,IT,CAM,40.90,14.80,5600000,A
+it-laz,Lazio,,IT,LAZ,41.90,12.80,5700000,A
+it-tos,Tuscany,Toscana,IT,TOS,43.40,11.00,3700000,A
+it-lom,Lombardy,Lombardia,IT,LOM,45.60,9.80,10000000,A
+it-sic,Sicily,Sicilia,IT,SIC,37.50,14.10,4800000,A
+it-ven,Veneto,,IT,VEN,45.60,11.90,4800000,A
+paris-fr,Paris,,FR,IDF,48.86,2.35,2100000,P
+paris-us-tx,Paris,,US,TX,33.66,-95.56,25000,P
+paris-us-tn,Paris,,US,TN,36.30,-88.33,10000,P
+paris-us-ky,Paris,,US,KY,38.21,-84.25,10000,P
+paris-ca-on,Paris,,CA,ON,43.20,-80.38,12000,P
+naples-it,Naples,Napoli,IT,CAM,40.85,14.27,910000,P
+naples-us-fl,Naples,,US,FL,26.14,-81.79,22000,P
+springfield-us-il,Springfield,,US,IL,39.80,-89.64,114000,P
+springfield-us-ma,Springfield,,US,MA,42.10,-72.59,155000,P
+springfield-us-mo,Springfield,,US,MO,37.21,-93.29,169000,P
+springfield-us-oh,Springfield,,US,OH,39.92,-83.81,58000,P
+springfield-us-or,Springfield,,US,OR,44.05,-123.02,62000,P
+cambridge-gb,Cambridge,,GB,ENG,52.21,0.12,145000,P
+cambridge-us-ma,Cambridge,,US,MA,42.37,-71.11,118000,P
+cambridge-ca-on,Cambridge,,CA,ON,43.36,-80.31,138000,P
+cambridge-us-md,Cambridge,,US,MD,38.56,-76.08,13000,P
+alexandria-eg,Alexandria,,EG,ALX,31.20,29.92,5200000,P
+alexandria-us-va,Alexandria,,US,VA,38.80,-77.05,155000,P
+alexandria-us-la,Alexandria,,US,LA,31.31,-92.45,45000,P
+alexandria-us-mn,Alexandria,,US,MN,45.89,-95.38,14000,P
+florence-it,Florence,Firenze,IT,TOS,43.77,11.25,360000,P
+florence-us-al,Florence,,US,AL,34.80,-87.68,40000,P
+florence-us-sc,Florence,,US,SC,34.20,-79.76,40000,P
+florence-us-ky,Florence,,US,KY,38.99,-84.63,33000,P
+florence-us-or,Florence,,US,OR,43.98,-124.10,9000,P
+valencia-es,Valencia,València,ES,VC,39.47,-0.38,800000,P
+valencia-ve,Valencia,,VE,CAR,10.16,-68.00,1500000,P
+victoria-ca-bc,Victoria,,CA,BC,48.43,-123.37,92000,P
+victoria-us-tx,Victoria,,US,TX,28.81,-97.00,66000,P
+victoria-sc,Victoria,,SC,MAH,-4.62,55.45,26000,P
+victoria-mt,Victoria,,MT,GOZ,36.04,14.24,7000,P
+london-gb,London,Greater London,GB,ENG,51.51,-0.13,8900000,P
+london-ca-on,London,,CA,ON,42.98,-81.25,420000,P
+london-us-ky,London,,US,KY,37.13,-84.08,8000,P
+london-us-oh,London,,US,OH,39.89,-83.45,10000,P
+perth-au-wa,Perth,,AU,WA,-31.95,115.86,2100000,P
+perth-gb,Perth,,GB,SCT,56.40,-3.43,47000,P
+perth-ca-on,Perth,,CA,ON,44.90,-76.25,6000,P
+kingston-jm,Kingston,,JM,KIN,17.99,-76.79,670000,P
+kingston-ca-on,Kingston,,CA,ON,44.23,-76.49,132000,P
+kingston-us-ny,Kingston,,US,NY,41.93,-73.99,24000,P
+kingston-upon-thames-gb,Kingston upon Thames,,GB,ENG,51.41,-0.30,170000,P
+portland-us-or,Portland,,US,OR,45.52,-122.68,650000,P
+portland-us-me,Portland,,US,ME,43.66,-70.26,68000,P
+salem-us-or,Salem,,US,OR,44.94,-123.04,175000,P
+salem-us-ma,Salem,,US,MA,42.52,-70.90,44000,P
+salem-in,Salem,,IN,TN,11.66,78.15,830000,P
+athens-gr,Athens,Athina,GR,ATT,37.98,23.73,660000,P
+athens-us-ga,Athens,,US,GA,33.95,-83.38,127000,P
+athens-us-oh,Athens,,US,OH,39.33,-82.10,25000,P
+athens-us-tn,Athens,,US,TN,35.44,-84.59,14000,P
+rome-it,Rome,Roma,IT,LAZ,41.90,12.50,2800000,P
+rome-us-ga,Rome,,US,GA,34.26,-85.16,37000,P
+rome-us-ny,Rome,,US,NY,43.21,-75.46,32000,P
+birmingham-gb,Birmingham,,GB,ENG,52.49,-1.89,1150000,P
+birmingham-us-al,Birmingham,,US,AL,33.52,-86.80,200000,P
+manchester-gb,Manchester,,GB,ENG,53.48,-2.24,550000,P
+manchester-us-nh,Manchester,,US,NH,42.99,-71.46,115000,P
+boston-us-ma,Boston,,US,MA,42.36,-71.06,650000,P
+boston-gb,Boston,,GB,ENG,52.98,-0.03,45000,P
+lincoln-gb,Lincoln,,GB,ENG,53.23,-0.54,100000,P
+lincoln-us-ne,Lincoln,,US,NE,40.81,-96.68,290000,P
+columbia-us-sc,Columbia,,US,SC,34.00,-81.03,137000,P
+columbia-us-mo,Columbia,,US,MO,38.95,-92.33,126000,P
+columbia-us-md,Columbia,,US,MD,39.20,-76.86,105000,P
+charleston-us-sc,Charleston,,US,SC,32.78,-79.93,150000,P
+charleston-us-wv,Charleston,,US,WV,38.35,-81.63,48000,P
+jackson-us-ms,Jackson,,US,MS,32.30,-90.18,150000,P
+jackson-us-tn,Jackson,,US,TN,35.61,-88.81,68000,P
+jackson-us-wy,Jackson,Jackson Hole,US,WY,43.48,-110.76,10000,P
+richmond-us-va,Richmond,,US,VA,37.54,-77.44,226000,P
+richmond-ca-bc,Richmond,,CA,BC,49.17,-123.14,210000,P
+richmond-us-ca,Richmond,,US,CA,37.94,-122.35,115000,P
+richmond-gb,Richmond,Richmond upon Thames,GB,ENG,51.46,-0.30,20000,P
+hamilton-ca-on,Hamilton,,CA,ON,43.26,-79.87,570000,P
+hamilton-nz,Hamilton,,NZ,WKO,-37.79,175.28,180000,P
+hamilton-gb,Hamilton,,GB,SCT,55.78,-4.04,54000,P
+hamilton-us-oh,Hamilton,,US,OH,39.40,-84.56,63000,P
+vancouver-ca-bc,Vancouver,,CA,BC,49.28,-123.12,660000,P
+vancouver-us-wa,Vancouver,,US,WA,45.64,-122.66,190000,P
+san-jose-us-ca,San Jose,,US,CA,37.34,-121.89,1000000,P
+san-jose-cr,San Jose,San José,CR,SJ,9.93,-84.08,350000,P
+santiago-cl,Santiago,Santiago de Chile,CL,RM,-33.45,-70.67,6200000,P
+santiago-es,Santiago de Compostela,Santiago,ES,GA,42.88,-8.54,98000,P
+santiago-cu,Santiago de Cuba,,CU,SCU,20.02,-75.82,510000,P
+cordoba-es,Cordoba,Córdoba,ES,AN,37.89,-4.78,320000,P
+cordoba-ar,Cordoba,Córdoba,AR,X,-31.42,-64.18,1400000,P
+granada-es,Granada,,ES,AN,37.18,-3.60,230000,P
+granada-ni,Granada,,NI,GR,11.93,-85.96,120000,P
+merida-mx,Merida,Mérida,MX,YUC,20.97,-89.62,920000,P
+merida-es,Merida,Mérida,ES,EX,38.92,-6.34,60000,P
+merida-ve,Merida,Mérida,VE,MER,8.59,-71.14,300000,P
+toledo-es,Toledo,,ES,CM,39.86,-4.03,85000,P
+toledo-us-oh,Toledo,,US,OH,41.65,-83.54,270000,P
+sydney-au-nsw,Sydney,,AU,NSW,-33.87,151.21,5300000,P
+sydney-ca-ns,Sydney,,CA,NS,46.14,-60.19,30000,P
+melbourne-au-vic,Melbourne,,AU,VIC,-37.81,144.96,5000000,P
+melbourne-us-fl,Melbourne,,US,FL,28.08,-80.61,85000,P
+newcastle-au-nsw,Newcastle,,AU,NSW,-32.93,151.78,320000,P
+newcastle-gb,Newcastle,Newcastle upon Tyne,GB,ENG,54.98,-1.61,300000,P
+wellington-nz,Wellington,,NZ,WGN,-41.29,174.78,215000,P
+wellington-gb,Wellington,,GB,ENG,50.98,-3.23,15000,P
+tripoli-ly,Tripoli,,LY,TB,32.89,13.19,1150000,P
+tripoli-lb,Tripoli,,LB,AS,34.44,35.83,230000,P
+georgetown-gy,Georgetown,,GY,DE,6.80,-58.16,120000,P
+georgetown-my,Georgetown,George Town,MY,PNG,5.41,100.33,700000,P
+georgetown-us-tx,Georgetown,,US,TX,30.63,-97.68,75000,P
+dublin-ie,Dublin,Baile Átha Cliath,IE,L,53.35,-6.26,590000,P
+dublin-us-oh,Dublin,,US,OH,40.10,-83.11,49000,P
+dublin-us-ca,Dublin,,US,CA,37.70,-121.94,72000,P
+belfast-gb,Belfast,,GB,NIR,54.60,-5.93,345000,P
+belfast-us-me,Belfast,,US,ME,44.43,-69.01,6700,P
+bristol-gb,Bristol,,GB,ENG,51.45,-2.59,470000,P
+bristol-us-ct,Bristol,,US,CT,41.67,-72.95,61000,P
+bristol-us-tn,Bristol,,US,TN,36.60,-82.19,27000,P
+plymouth-gb,Plymouth,,GB,ENG,50.38,-4.14,265000,P
+plymouth-us-ma,Plymouth,,US,MA,41.96,-70.67,61000,P
+plymouth-us-mn,Plymouth,,US,MN,45.01,-93.46,80000,P
+worcester-gb,Worcester,,GB,ENG,52.19,-2.22,103000,P
+worcester-us-ma,Worcester,,US,MA,42.26,-71.80,206000,P
+oxford-gb,Oxford,,GB,ENG,51.75,-1.26,160000,P
+oxford-us-ms,Oxford,,US,MS,34.37,-89.52,28000,P
+oxford-us-oh,Oxford,,US,OH,39.51,-84.75,23000,P
+durham-gb,Durham,,GB,ENG,54.78,-1.57,50000,P
+durham-us-nc,Durham,,US,NC,35.99,-78.90,285000,P
+moscow-ru,Moscow,Moskva,RU,MOW,55.76,37.62,13000000,P
+moscow-us-id,Moscow,,US,ID,46.73,-117.00,26000,P
+st-petersburg-ru,Saint Petersburg,St Petersburg|St. Petersburg|Petersburg,RU,SPE,59.94,30.32,5600000,P
+st-petersburg-us-fl,Saint Petersburg,St Petersburg|St. Petersburg,US,FL,27.77,-82.64,260000,P
+berlin-de,Berlin,,DE,BE,52.52,13.40,3700000,P
+berlin-us-nh,Berlin,,US,NH,44.47,-71.19,10000,P
+hanover-de,Hanover,Hannover,DE,NI,52.37,9.74,540000,P
+hanover-us-nh,Hanover,,US,NH,43.70,-72.29,11000,P
+amsterdam-nl,Amsterdam,,NL,NH,52.37,4.90,920000,P
+amsterdam-us-ny,Amsterdam,,US,NY,42.94,-74.19,18000,P
+hyderabad-in,Hyderabad,,IN,TG,17.39,78.49,6900000,P
+hyderabad-pk,Hyderabad,,PK,SD,25.40,68.37,1700000,P
+lagos-ng,Lagos,,NG,LA,6.52,3.38,15000000,P
+lagos-pt,Lagos,,PT,FAR,37.10,-8.67,31000,P
+leon-mx,Leon,León,MX,GUA,21.12,-101.68,1700000,P
+leon-es,Leon,León,ES,CL,42.60,-5.57,120000,P
+leon-ni,Leon,León,NI,LE,12.43,-86.88,200000,P
+barcelona-es,Barcelona,,ES,CT,41.39,2.17,1620000,P
+barcelona-ve,Barcelona,,VE,ANZ,10.13,-64.69,420000,P
+la-paz-bo,La Paz,,BO,L,-16.50,-68.15,760000,P
+la-paz-mx,La Paz,,MX,BCS,24.14,-110.31,250000,P
+halifax-ca-ns,Halifax,,CA,NS,44.65,-63.58,440000,P
+halifax-gb,Halifax,,GB,ENG,53.72,-1.86,88000,P
+windsor-ca-on,Windsor,,CA,ON,42.31,-83.04,230000,P
+windsor-gb,Windsor,,GB,ENG,51.48,-0.61,32000,P
+waterloo-ca-on,Waterloo,,CA,ON,43.47,-80.52,120000,P
+waterloo-be,Waterloo,,BE,WBR,50.71,4.40,30000,P
+waterloo-us-ia,Waterloo,,US,IA,42.49,-92.34,67000,P
+ottawa-ca-on,Ottawa,,CA,ON,45.42,-75.70,1000000,P
+ottawa-us-il,Ottawa,,US,IL,41.35,-88.84,19000,P
+quebec-city-ca-qc,Quebec City,Quebec|Québec,CA,QC,46.81,-71.21,550000,P
+new-york-city-us-ny,New York,New York City|NYC,US,NY,40.71,-74.01,8300000,P
+washington-us-dc,Washington,Washington DC|Washington D.C.|DC,US,DC,38.91,-77.04,690000,P
+austin-us-tx,Austin,,US,TX,30.27,-97.74,960000,P
+austin-us-mn,Austin,,US,MN,43.67,-92.97,25000,P
+jacksonville-us-fl,Jacksonville,,US,FL,30.33,-81.66,950000,P
+jacksonville-us-nc,Jacksonville,,US,NC,34.75,-77.43,72000,P
+peoria-us-il,Peoria,,US,IL,40.69,-89.59,113000,P
+peoria-us-az,Peoria,,US,AZ,33.58,-112.24,190000,P
+amherst-us-ma,Amherst,,US,MA,42.37,-72.52,40000,P
+amherst-us-ny,Amherst,,US,NY,42.98,-78.80,125000,P
+amherst-ca-ns,Amherst,,CA,NS,45.83,-64.21,10000,P
+albany-us-ny,Albany,,US,NY,42.65,-73.75,99000,P
+albany-us-ga,Albany,,US,GA,31.58,-84.16,70000,P
+albany-us-or,Albany,,US,OR,44.64,-123.10,56000,P
+albany-au-wa,Albany,,AU,WA,-35.02,117.88,34000,P
+kansas-city-us-mo,Kansas City,,US,MO,39.10,-94.58,510000,P
+kansas-city-us-ks,Kansas City,,US,KS,39.11,-94.63,155000,P
+medford-us-or,Medford,,US,OR,42.33,-122.87,86000,P
+medford-us-ma,Medford,,US,MA,42.42,-71.11,60000,P
+bangor-us-me,Bangor,,US,ME,44.80,-68.77,32000,P
+bangor-gb-wls,Bangor,,GB,WLS,53.23,-4.13,18000,P
+bangor-gb-nir,Bangor,,GB,NIR,54.66,-5.67,64000,P
+augusta-us-me,Augusta,,US,ME,44.31,-69.78,19000,P
+augusta-us-ga,Augusta,,US,GA,33.47,-81.97,200000,P
+arlington-us-va,Arlington,,US,VA,38.88,-77.10,235000,P
+arlington-us-tx,Arlington,,US,TX,32.74,-97.11,395000,P
+huntsville-us-al,Huntsville,,US,AL,34.73,-86.59,215000,P
+huntsville-us-tx,Huntsville,,US,TX,30.72,-95.55,46000,P
+greenville-us-sc,Greenville,,US,SC,34.85,-82.40,72000,P
+greenville-us-nc,Greenville,,US,NC,35.61,-77.37,88000,P
+pasadena-us-ca,Pasadena,,US,CA,34.15,-118.14,138000,P
+pasadena-us-tx,Pasadena,,US,TX,29.69,-95.21,150000,P
+memphis-us-tn,Memphis,,US,TN,35.15,-90.05,630000,P
+louisville-us-ky,Louisville,,US,KY,38.25,-85.76,620000,P
+louisville-us-co,Louisville,,US,CO,39.98,-105.13,21000,P
+lexington-us-ky,Lexington,,US,KY,38.04,-84.50,320000,P
+lexington-us-ma,Lexington,,US,MA,42.45,-71.23,34000,P
+columbus-us-oh,Columbus,,US,OH,39.96,-83.00,900000,P
+columbus-us-ga,Columbus,,US,GA,32.46,-84.99,206000,P
+lancaster-us-pa,Lancaster,,US,PA,40.04,-76.31,58000,P
+lancaster-gb,Lancaster,,GB,ENG,54.05,-2.80,52000,P
+lancaster-us-ca,Lancaster,,US,CA,34.70,-118.14,170000,P
+york-us-pa,York,,US,PA,39.96,-76.73,44000,P
+york-gb,York,,GB,ENG,53.96,-1.08,210000,P
+syracuse-us-ny,Syracuse,,US,NY,43.05,-76.15,145000,P
+syracuse-it,Syracuse,Siracusa,IT,SIC,37.08,15.29,120000,P
+rochester-us-ny,Rochester,,US,NY,43.16,-77.61,210000,P
+rochester-us-mn,Rochester,,US,MN,44.02,-92.47,120000,P
+rochester-gb,Rochester,,GB,ENG,51.39,0.50,63000,P
+lafayette-us-la,Lafayette,,US,LA,30.22,-92.02,121000,P
+lafayette-us-in,Lafayette,,US,IN,40.42,-86.88,70000,P
+las-vegas-us-nv,Las Vegas,,US,NV,36.17,-115.14,650000,P
+las-vegas-us-nm,Las Vegas,,US,NM,35.59,-105.22,13000,P
+santa-fe-us-nm,Santa Fe,,US,NM,35.69,-105.94,88000,P
+santa-fe-ar,Santa Fe,,AR,S,-31.63,-60.70,400000,P
+wilmington-us-de,Wilmington,,US,DE,39.74,-75.55,71000,P
+wilmington-us-nc,Wilmington,,US,NC,34.23,-77.94,120000,P
+aberdeen-gb,Aberdeen,,GB,SCT,57.15,-2.09,200000,P
+aberdeen-us-sd,Aberdeen,,US,SD,45.46,-98.49,28000,P
+exeter-gb,Exeter,,GB,ENG,50.72,-3.53,130000,P
+exeter-us-nh,Exeter,,US,NH,42.98,-70.95,16000,P
+norwich-gb,Norwich,,GB,ENG,52.63,1.30,145000,P
+norwich-us-ct,Norwich,,US,CT,41.52,-72.08,40000,P
+venice-it,Venice,Venezia,IT,VEN,45.44,12.32,260000,P
+venice-us-fl,Venice,,US,FL,27.10,-82.45,25000,P
+cairo-eg,Cairo,,EG,C,30.04,31.24,10000000,P
+cairo-us-il,Cairo,,US,IL,37.01,-89.18,2000,P
+corinth-gr,Corinth,,GR,PEL,37.94,22.93,30000,P
+corinth-us-ms,Corinth,,US,MS,34.93,-88.52,14000,P
+lima-pe,Lima,,PE,LIM,-12.05,-77.04,9700000,P
+lima-us-oh,Lima,,US,OH,40.74,-84.11,36000,P
+niagara-falls-ca-on,Niagara Falls,,CA,ON,43.09,-79.08,90000,P
+niagara-falls-us-ny,Niagara Falls,,US,NY,43.09,-79.06,48000,P
+darwin-au,Darwin,,AU,NT,-12.46,130.84,150000,P
+dallas-us-tx,Dallas,,US,TX,32.78,-96.80,1300000,P
+houston-us-tx,Houston,,US,TX,29.76,-95.37,2300000,P
+san-antonio-us-tx,San Antonio,,US,TX,29.42,-98.49,1450000,P
+fort-worth-us-tx,Fort Worth,,US,TX,32.76,-97.33,960000,P
+el-paso-us-tx,El Paso,,US,TX,31.76,-106.49,680000,P
+tyler-us-tx,Tyler,,US,TX,32.35,-95.30,110000,P
+texarkana-us-tx,Texarkana,,US,TX,33.43,-94.05,36000,P
+corpus-christi-us-tx,Corpus Christi,,US,TX,27.80,-97.40,320000,P
+miami-us-fl,Miami,,US,FL,25.76,-80.19,450000,P
+orlando-us-fl,Orlando,,US,FL,28.54,-81.38,310000,P
+tampa-us-fl,Tampa,,US,FL,27.95,-82.46,400000,P
+fort-myers-us-fl,Fort Myers,,US,FL,26.64,-81.87,90000,P
+tallahassee-us-fl,Tallahassee,,US,FL,30.44,-84.28,200000,P
+key-west-us-fl,Key West,,US,FL,24.56,-81.78,26000,P
+sarasota-us-fl,Sarasota,,US,FL,27.34,-82.53,57000,P
+chicago-us-il,Chicago,,US,IL,41.88,-87.63,2700000,P
+rockford-us-il,Rockford,,US,IL,42.27,-89.09,148000,P
+hartford-us-ct,Hartford,,US,CT,41.76,-72.67,121000,P
+providence-us-ri,Providence,,US,RI,41.82,-71.41,190000,P
+lowell-us-ma,Lowell,,US,MA,42.64,-71.32,115000,P
+st-louis-us-mo,St. Louis,St Louis|Saint Louis,US,MO,38.63,-90.20,300000,P
+joplin-us-mo,Joplin,,US,MO,37.08,-94.51,52000,P
+branson-us-mo,Branson,,US,MO,36.64,-93.22,12000,P
+eugene-us-or,Eugene,,US,OR,44.05,-123.09,177000,P
+bend-us-or,Bend,,US,OR,44.06,-121.32,100000,P
+corvallis-us-or,Corvallis,,US,OR,44.56,-123.26,60000,P
+seattle-us-wa,Seattle,,US,WA,47.61,-122.33,750000,P
+tacoma-us-wa,Tacoma,,US,WA,47.25,-122.44,220000,P
+spokane-us-wa,Spokane,,US,WA,47.66,-117.43,230000,P
+bar-harbor-us-me,Bar Harbor,,US,ME,44.39,-68.20,5000,P
+lewiston-us-me,Lewiston,,US,ME,44.10,-70.21,38000,P
+norfolk-us-va,Norfolk,,US,VA,36.85,-76.29,240000,P
+charlottesville-us-va,Charlottesville,,US,VA,38.03,-78.48,46000,P
+roanoke-us-va,Roanoke,,US,VA,37.27,-79.94,100000,P
+montgomery-us-al,Montgomery,,US,AL,32.37,-86.30,200000,P
+tuscaloosa-us-al,Tuscaloosa,,US,AL,33.21,-87.57,110000,P
+mobile-us-al,Mobile,,US,AL,30.69,-88.04,187000,P
+muscle-shoals-us-al,Muscle Shoals,,US,AL,34.74,-87.67,16000,P
+myrtle-beach-us-sc,Myrtle Beach,,US,SC,33.69,-78.89,38000,P
+atlanta-us-ga,Atlanta,,US,GA,33.75,-84.39,500000,P
+savannah-us-ga,Savannah,,US,GA,32.08,-81.09,147000,P
+macon-us-ga,Macon,,US,GA,32.84,-83.63,157000,P
+los-angeles-us-ca,Los Angeles,LA,US,CA,34.05,-118.24,3900000,P
+san-francisco-us-ca,San Francisco,,US,CA,37.77,-122.42,810000,P
+san-diego-us-ca,San Diego,,US,CA,32.72,-117.16,1390000,P
+sacramento-us-ca,Sacramento,,US,CA,38.58,-121.49,525000,P
+oakland-us-ca,Oakland,,US,CA,37.80,-122.27,435000,P
+nashville-us-tn,Nashville,,US,TN,36.16,-86.78,690000,P
+knoxville-us-tn,Knoxville,,US,TN,35.96,-83.92,195000,P
+chattanooga-us-tn,Chattanooga,,US,TN,35.05,-85.31,182000,P
+frankfort-us-ky,Frankfort,,US,KY,38.20,-84.87,28000,P
+cleveland-us-oh,Cleveland,,US,OH,41.50,-81.69,370000,P
+cincinnati-us-oh,Cincinnati,,US,OH,39.10,-84.51,310000,P
+dayton-us-oh,Dayton,,US,OH,39.76,-84.19,137000,P
+detroit-us-mi,Detroit,,US,MI,42.33,-83.05,630000,P
+ann-arbor-us-mi,Ann Arbor,,US,MI,42.28,-83.74,123000,P
+philadelphia-us-pa,Philadelphia,,US,PA,39.95,-75.17,1550000,P
+pittsburgh-us-pa,Pittsburgh,,US,PA,40.44,-80.00,300000,P
+harrisburg-us-pa,Harrisburg,,US,PA,40.27,-76.88,50000,P
+buffalo-us-ny,Buffalo,,US,NY,42.89,-78.88,275000,P
+ithaca-us-ny,Ithaca,,US,NY,42.44,-76.50,32000,P
+utica-us-ny,Utica,,US,NY,43.10,-75.23,65000,P
+biloxi-us-ms,Biloxi,,US,MS,30.40,-88.89,49000,P
+tupelo-us-ms,Tupelo,,US,MS,34.26,-88.70,38000,P
+new-orleans-us-la,New Orleans,,US,LA,29.95,-90.07,370000,P
+baton-rouge-us-la,Baton Rouge,,US,LA,30.45,-91.15,220000,P
+shreveport-us-la,Shreveport,,US,LA,32.53,-93.75,180000,P
+denver-us-co,Denver,,US,CO,39.74,-104.99,715000,P
+boulder-us-co,Boulder,,US,CO,40.01,-105.27,105000,P
+phoenix-us-az,Phoenix,,US,AZ,33.45,-112.07,1650000,P
+albuquerque-us-nm,Albuquerque,,US,NM,35.08,-106.65,560000,P
+minneapolis-us-mn,Minneapolis,,US,MN,44.98,-93.27,425000,P
+milwaukee-us-wi,Milwaukee,,US,WI,43.04,-87.91,560000,P
+indianapolis-us-in,Indianapolis,,US,IN,39.77,-86.16,880000,P
+omaha-us-ne,Omaha,,US,NE,41.26,-95.93,485000,P
+baltimore-us-md,Baltimore,,US,MD,39.29,-76.61,570000,P
+annapolis-us-md,Annapolis,,US,MD,38.98,-76.49,40000,P
+raleigh-us-nc,Raleigh,,US,NC,35.78,-78.64,470000,P
+concord-us-nh,Concord,,US,NH,43.21,-71.54,44000,P
+toronto-ca-on,Toronto,,CA,ON,43.65,-79.38,2800000,P
+montreal-ca-qc,Montreal,Montréal,CA,QC,45.50,-73.57,1760000,P
+calgary-ca-ab,Calgary,,CA,AB,51.05,-114.07,1300000,P
+edmonton-ca-ab,Edmonton,,CA,AB,53.55,-113.49,1000000,P
+winnipeg-ca-mb,Winnipeg,,CA,MB,49.90,-97.14,750000,P
+kitchener-ca-on,Kitchener,,CA,ON,43.45,-80.49,260000,P
+mississauga-ca-on,Mississauga,,CA,ON,43.59,-79.64,720000,P
+nanaimo-ca-bc,Nanaimo,,CA,BC,49.17,-123.94,100000,P
+moncton-ca-nb,Moncton,,CA,NB,46.09,-64.78,80000,P
+brisbane-au-qld,Brisbane,,AU,QLD,-27.47,153.03,2600000,P
+adelaide-au-sa,Adelaide,,AU,SA,-34.93,138.60,1400000,P
+hobart-au-tas,Hobart,,AU,TAS,-42.88,147.33,250000,P
+fremantle-au-wa,Fremantle,,AU,WA,-32.06,115.75,30000,P
+canberra-au,Canberra,,AU,ACT,-35.28,149.13,460000,P
+geelong-au-vic,Geelong,,AU,VIC,-38.15,144.36,270000,P
+ballarat-au-vic,Ballarat,,AU,VIC,-37.56,143.85,115000,P
+cairns-au-qld,Cairns,,AU,QLD,-16.92,145.77,155000,P
+edinburgh-gb,Edinburgh,,GB,SCT,55.95,-3.19,525000,P
+glasgow-gb,Glasgow,,GB,SCT,55.86,-4.25,630000,P
+dundee-gb,Dundee,,GB,SCT,56.46,-2.97,150000,P
+inverness-gb,Inverness,,GB,SCT,57.48,-4.22,48000,P
+stirling-gb,Stirling,,GB,SCT,56.12,-3.94,37000,P
+liverpool-gb,Liverpool,,GB,ENG,53.41,-2.98,500000,P
+leeds-gb,Leeds,,GB,ENG,53.80,-1.55,800000,P
+sheffield-gb,Sheffield,,GB,ENG,53.38,-1.47,560000,P
+nottingham-gb,Nottingham,,GB,ENG,52.95,-1.15,330000,P
+leicester-gb,Leicester,,GB,ENG,52.64,-1.13,370000,P
+brighton-gb,Brighton,,GB,ENG,50.82,-0.14,230000,P
+southampton-gb,Southampton,,GB,ENG,50.90,-1.40,250000,P
+bath-gb,Bath,,GB,ENG,51.38,-2.36,95000,P
+canterbury-gb,Canterbury,,GB,ENG,51.28,1.08,55000,P
+cardiff-gb,Cardiff,,GB,WLS,51.48,-3.18,360000,P
+swansea-gb,Swansea,,GB,WLS,51.62,-3.94,245000,P
+derry-gb,Derry,Londonderry,GB,NIR,55.00,-7.31,85000,P
+heathrow-gb,Heathrow,,GB,ENG,51.47,-0.45,3000,P
+milan-it,Milan,Milano,IT,LOM,45.46,9.19,1370000,P
+turin-it,Turin,Torino,IT,PIE,45.07,7.69,850000,P
+bologna-it,Bologna,,IT,EMR,44.49,11.34,390000,P
+genoa-it,Genoa,Genova,IT,LIG,44.41,8.93,560000,P
+palermo-it,Palermo,,IT,SIC,38.12,13.36,630000,P
+catania-it,Catania,,IT,SIC,37.50,15.09,300000,P
+pisa-it,Pisa,,IT,TOS,43.72,10.40,90000,P
+siena-it,Siena,,IT,TOS,43.32,11.33,53000,P
+verona-it,Verona,,IT,VEN,45.44,10.99,260000,P
+salerno-it,Salerno,,IT,CAM,40.68,14.77,127000,P
+sorrento-it,Sorrento,,IT,CAM,40.63,14.38,16000,P
+pompeii-it,Pompeii,Pompei,IT,CAM,40.75,14.49,25000,P
+amalfi-it,Amalfi,,IT,CAM,40.63,14.60,5000,P
+bari-it,Bari,,IT,PUG,41.12,16.87,320000,P
+lyon-fr,Lyon,Lyons,FR,ARA,45.76,4.84,520000,P
+marseille-fr,Marseille,Marseilles,FR,PAC,43.30,5.37,870000,P
+bordeaux-fr,Bordeaux,,FR,NAQ,44.84,-0.58,260000,P
+toulouse-fr,Toulouse,,FR,OCC,43.60,1.44,500000,P
+nice-fr,Nice,,FR,PAC,43.70,7.27,340000,P
+versailles-fr,Versailles,,FR,IDF,48.80,2.13,85000,P
+lille-fr,Lille,,FR,HDF,50.63,3.06,235000,P
+strasbourg-fr,Strasbourg,,FR,GES,48.57,7.75,290000,P
+cannes-fr,Cannes,,FR,PAC,43.55,7.01,74000,P
+orleans-fr,Orleans,Orléans,FR,CVL,47.90,1.91,115000,P
+madrid-es,Madrid,,ES,MD,40.42,-3.70,3300000,P
+seville-es,Seville,Sevilla,ES,AN,37.39,-5.98,690000,P
+bilbao-es,Bilbao,,ES,PV,43.26,-2.93,345000,P
+malaga-es,Malaga,Málaga,ES,AN,36.72,-4.42,580000,P
+alicante-es,Alicante,,ES,VC,38.35,-0.48,340000,P
+zaragoza-es,Zaragoza,,ES,AR,41.65,-0.89,680000,P
+munich-de,Munich,München,DE,BY,48.14,11.58,1500000,P
+hamburg-de,Hamburg,,DE,HH,53.55,9.99,1850000,P
+cologne-de,Cologne,Köln,DE,NW,50.94,6.96,1080000,P
+frankfurt-de,Frankfurt,Frankfurt am Main,DE,HE,50.11,8.68,770000,P
+dresden-de,Dresden,,DE,SN,51.05,13.74,560000,P
+leipzig-de,Leipzig,,DE,SN,51.34,12.37,600000,P
+giza-eg,Giza,,EG,GZ,30.01,31.21,4400000,P
+luxor-eg,Luxor,,EG,LX,25.69,32.64,500000,P
+aswan-eg,Aswan,,EG,ASN,24.09,32.90,290000,P
+thessaloniki-gr,Thessaloniki,,GR,MAK,40.64,22.94,320000,P
+piraeus-gr,Piraeus,,GR,ATT,37.94,23.65,165000,P
+caracas-ve,Caracas,,VE,DC,10.48,-66.90,2100000,P
+maracaibo-ve,Maracaibo,,VE,ZUL,10.65,-71.64,1500000,P
+maracay-ve,Maracay,,VE,ARA,10.24,-67.59,1000000,P
+montego-bay-jm,Montego Bay,,JM,JAM,18.47,-77.92,110000,P
+ocho-rios-jm,Ocho Rios,,JM,ANN,18.41,-77.10,17000,P
+spanish-town-jm,Spanish Town,,JM,CAT,17.99,-76.96,145000,P
+valletta-mt,Valletta,,MT,VLT,35.90,14.51,6000,P
+mahe-sc,Mahe,Mahé,SC,MAH,-4.68,55.48,78000,P
+cork-ie,Cork,,IE,M,51.90,-8.47,225000,P
+galway-ie,Galway,,IE,C,53.27,-9.05,85000,P
+lisbon-pt,Lisbon,Lisboa,PT,LIS,38.72,-9.14,550000,P
+porto-pt,Porto,Oporto,PT,POR,41.15,-8.61,230000,P
+faro-pt,Faro,,PT,FAR,37.02,-7.93,65000,P
+rio-de-janeiro-br,Rio de Janeiro,Rio,BR,RJ,-22.91,-43.17,6700000,P
+sao-paulo-br,Sao Paulo,São Paulo,BR,SP,-23.55,-46.63,11500000,P
+mexico-city-mx,Mexico City,Ciudad de Mexico,MX,CMX,19.43,-99.13,9200000,P
+cancun-mx,Cancun,Cancún,MX,ROO,21.16,-86.85,890000,P
+guadalajara-mx,Guadalajara,,MX,JAL,20.66,-103.35,1400000,P
+buenos-aires-ar,Buenos Aires,,AR,C,-34.60,-58.38,3100000,P
+rosario-ar,Rosario,,AR,S,-32.95,-60.65,1300000,P
+valparaiso-cl,Valparaiso,Valparaíso,CL,VS,-33.05,-71.62,300000,P
+cusco-pe,Cusco,Cuzco,PE,CUS,-13.53,-71.97,430000,P
+havana-cu,Havana,La Habana,CU,LH,23.11,-82.37,2100000,P
+managua-ni,Managua,,NI,MN,12.11,-86.24,1050000,P
+bogota-co,Bogota,Bogotá,CO,DC,4.71,-74.07,7900000,P
+santa-cruz-bo,Santa Cruz de la Sierra,Santa Cruz,BO,S,-17.78,-63.18,1600000,P
+tbilisi-ge,Tbilisi,,GE,TB,41.72,44.79,1200000,P
+batumi-ge,Batumi,,GE,AJ,41.64,41.64,170000,P
+benghazi-ly,Benghazi,,LY,BA,32.12,20.07,860000,P
+beirut-lb,Beirut,,LB,BA,33.89,35.50,360000,P
+kuala-lumpur-my,Kuala Lumpur,,MY,KUL,3.14,101.69,1980000,P
+chennai-in,Chennai,Madras,IN,TN,13.08,80.27,7100000,P
+bangalore-in,Bangalore,Bengaluru,IN,KA,12.97,77.59,8400000,P
+mumbai-in,Mumbai,Bombay,IN,MH,19.08,72.88,12400000,P
+coimbatore-in,Coimbatore,,IN,TN,11.02,76.96,1600000,P
+karachi-pk,Karachi,,PK,SD,24.86,67.01,14900000,P
+abuja-ng,Abuja,,NG,FC,9.08,7.40,1200000,P
+sergiev-posad-ru,Sergiev Posad,,RU,MOS,56.31,38.13,100000,P
+pullman-us-wa,Pullman,,US,WA,46.73,-117.18,32000,P
+auckland-nz,Auckland,,NZ,AUK,-36.85,174.76,1700000,P
+christchurch-nz,Christchurch,,NZ,CAN,-43.53,172.64,390000,P
+cape-town-za,Cape Town,,ZA,WC,-33.92,18.42,4700000,P
+schiphol-nl,Schiphol,,NL,NH,52.31,4.76,1000,P
+rotterdam-nl,Rotterdam,,NL,ZH,51.92,4.48,650000,P
+brussels-be,Brussels,Bruxelles,BE,BRU,50.85,4.35,1200000,P
+geneva-ch,Geneva,Genève,CH,GE,46.20,6.14,200000,P
+zurich-ch,Zurich,Zürich,CH,ZH,47.38,8.54,420000,P
+vienna-at,Vienna,Wien,AT,9,48.21,16.37,1950000,P
+istanbul-tr,Istanbul,,TR,34,41.01,28.98,15600000,P
+stockholm-se,Stockholm,,SE,AB,59.33,18.07,980000,P
+warsaw-pl,Warsaw,Warszawa,PL,MZ,52.23,21.01,1860000,P
+marrakesh-ma,Marrakesh,Marrakech,MA,MAR,31.63,-8.01,930000,P
+tokyo-jp,Tokyo,,JP,13,35.68,139.69,14000000,P
+osaka-jp,Osaka,,JP,27,34.69,135.50,2750000,P
+beijing-cn,Beijing,Peking,CN,BJ,39.90,116.41,21500000,P
+shanghai-cn,Shanghai,,CN,SH,31.23,121.47,24900000,P

@@ -1,0 +1,60 @@
+{"text": "I flew from Naples to Rome, then drove to Florence.", "gold": [["Naples", "naples-it"], ["Rome", "rome-it"], ["Florence", "florence-it"]]}
+{"text": "We rented a beach condo in Naples and played golf every day.", "gold": [["Naples", "naples-us-fl"]]}
+{"text": "The pizza ovens of Naples smoke all night long.", "gold": [["Naples", "naples-it"]]}
+{"text": "The museums of Paris were closed for the holiday.", "gold": [["Paris", "paris-fr"]]}
+{"text": "A small rodeo in Paris drew cattle ranchers from three counties.", "gold": [["Paris", "paris-us-tx"]]}
+{"text": "He was born in Paris, Tennessee, and moved away at eighteen.", "gold": [["Paris", "paris-us-tn"], ["Tennessee", "us-tn"]]}
+{"text": "After a week in Cambridge we flew home from Boston.", "gold": [["Cambridge", "cambridge-us-ma"], ["Boston", "boston-us-ma"]]}
+{"text": "We drove from Cambridge to Oxford through the countryside.", "gold": [["Cambridge", "cambridge-gb"], ["Oxford", "oxford-gb"]]}
+{"text": "Snowbirds fill the golf courses of Naples from December to April.", "gold": [["Naples", "naples-us-fl"]]}
+{"text": "The ferry to Capri leaves Naples at nine.", "gold": [["Naples", "naples-it"]]}
+{"text": "The lighthouse of Alexandria stood on the Mediterranean shore.", "gold": [["Alexandria", "alexandria-eg"]]}
+{"text": "She took the metro from Alexandria to her federal job every morning.", "gold": [["Alexandria", "alexandria-us-va"]]}
+{"text": "The frescoes of Florence were restored after the flood.", "gold": [["Florence", "florence-it"]]}
+{"text": "Soul musicians recorded in Florence and Muscle Shoals.", "gold": [["Florence", "florence-us-al"], ["Muscle Shoals", "muscle-shoals-us-al"]]}
+{"text": "Orange blossom fills the air of Valencia in March.", "gold": [["Valencia", "valencia-es"]]}
+{"text": "Valencia and Maracay lost power for two days.", "gold": [["Valencia", "valencia-ve"], ["Maracay", "maracay-ve"]]}
+{"text": "The ferry docked in Victoria after crossing from the mainland.", "gold": [["Victoria", "victoria-ca-bc"]]}
+{"text": "Ranchers near Victoria lost cattle in the floods.", "gold": [["Victoria", "victoria-us-tx"]]}
+{"text": "We spent Christmas in London and visited family in Toronto.", "gold": [["London", "london-ca-on"], ["Toronto", "toronto-ca-on"]]}
+{"text": "The Thames froze over in London that winter.", "gold": [["London", "london-gb"]]}
+{"text": "Mining engineers flock to Perth during every resource boom.", "gold": [["Perth", "perth-au-wa"]]}
+{"text": "From Edinburgh we drove north to Perth and Inverness.", "gold": [["Edinburgh", "edinburgh-gb"], ["Perth", "perth-gb"], ["Inverness", "inverness-gb"]]}
+{"text": "Reggae legends grew up in the yards of Kingston.", "gold": [["Kingston", "kingston-jm"]]}
+{"text": "We drove from Ottawa to Kingston along the river.", "gold": [["Ottawa", "ottawa-ca-on"], ["Kingston", "kingston-ca-on"]]}
+{"text": "We drove from Portland to Salem in an hour.", "gold": [["Portland", "portland-us-or"], ["Salem", "salem-us-or"]]}
+{"text": "Lobster boats returned to Portland at dawn.", "gold": [["Portland", "portland-us-me"]]}
+{"text": "The witch museum in Salem was packed in October.", "gold": [["Salem", "salem-us-ma"]]}
+{"text": "We toured Athens and Atlanta on the same weekend.", "gold": [["Athens", "athens-us-ga"], ["Atlanta", "atlanta-us-ga"]]}
+{"text": "The Parthenon in Athens glows at sunset.", "gold": [["Athens", "athens-gr"]]}
+{"text": "After visiting Athens we sailed to the islands from Piraeus.", "gold": [["Athens", "athens-gr"], ["Piraeus", "piraeus-gr"]]}
+{"text": "We drove from Birmingham to Huntsville on Friday.", "gold": [["Birmingham", "birmingham-us-al"], ["Huntsville", "huntsville-us-al"]]}
+{"text": "Canal boats moor in the centre of Birmingham.", "gold": [["Birmingham", "birmingham-gb"]]}
+{"text": "The marathon runners crossed the river into Cambridge at mile twenty.", "gold": [["Cambridge", "cambridge-us-ma"]]}
+{"text": "The road from Portland to Bar Harbor follows the coast.", "gold": [["Portland", "portland-us-me"], ["Bar Harbor", "bar-harbor-us-me"]]}
+{"text": "She moved from London to Perth to be closer to the Highlands.", "gold": [["London", "london-gb"], ["Perth", "perth-gb"]]}
+{"text": "The cathedral of Lincoln can be seen from miles away.", "gold": [["Lincoln", "lincoln-gb"]]}
+{"text": "We drove from Lincoln to Omaha for the game.", "gold": [["Lincoln", "lincoln-us-ne"], ["Omaha", "omaha-us-ne"]]}
+{"text": "Cattle and oil money built Victoria and Corpus Christi.", "gold": [["Victoria", "victoria-us-tx"], ["Corpus Christi", "corpus-christi-us-tx"]]}
+{"text": "The night market in Richmond opens every summer weekend.", "gold": [["Richmond", "richmond-ca-bc"]]}
+{"text": "From Springfield we drove to Chicago along the old highway.", "gold": [["Springfield", "springfield-us-il"], ["Chicago", "chicago-us-il"]]}
+{"text": "The basketball museum in Springfield is closed on Mondays.", "gold": [["Springfield", "springfield-us-ma"]]}
+{"text": "We hiked in the Ozarks south of Springfield.", "gold": [["Springfield", "springfield-us-mo"]]}
+{"text": "Our flight from Sydney landed in Perth after five hours.", "gold": [["Sydney", "sydney-au-nsw"], ["Perth", "perth-au-wa"]]}
+{"text": "Rocket launches are visible from the beaches of Melbourne in Florida.", "gold": [["Melbourne", "melbourne-us-fl"], ["Florida", "us-fl"]]}
+{"text": "The tram network of Melbourne is the largest in the world.", "gold": [["Melbourne", "melbourne-au-vic"]]}
+{"text": "The cathedral of Santiago welcomes thousands of pilgrims.", "gold": [["Santiago", "santiago-es"]]}
+{"text": "Smog often hides the Andes from Santiago.", "gold": [["Santiago", "santiago-cl"]]}
+{"text": "Spring training games fill the stadiums of St. Petersburg and Tampa.", "gold": [["St. Petersburg", "st-petersburg-us-fl"], ["Tampa", "tampa-us-fl"]]}
+{"text": "The canals of St Petersburg freeze in January.", "gold": [["St Petersburg", "st-petersburg-ru"]]}
+{"text": "A coffee farm outside San Jose offered tours in Spanish.", "gold": [["San Jose", "san-jose-cr"]]}
+{"text": "The trip went Kingston, Ottawa, Montreal.", "gold": [["Kingston", "kingston-ca-on"], ["Ottawa", "ottawa-ca-on"], ["Montreal", "montreal-ca-qc"]]}
+{"text": "The trip went from Paris to Versailles by train.", "gold": [["Paris", "paris-fr"], ["Versailles", "versailles-fr"]]}
+{"text": "We drove from Florence to Columbia and then Charleston.", "gold": [["Florence", "florence-us-sc"], ["Columbia", "columbia-us-sc"], ["Charleston", "charleston-us-sc"]]}
+{"text": "Bushfire smoke covered Melbourne and much of Victoria.", "gold": [["Melbourne", "melbourne-au-vic"], ["Victoria", "au-vic"]]}
+{"text": "The festival moved from Hamilton to London last year.", "gold": [["Hamilton", "hamilton-ca-on"], ["London", "london-ca-on"]]}
+{"text": "We drove Salem to Springfield and then Portland.", "gold": [["Salem", "salem-us-or"], ["Springfield", "springfield-us-or"], ["Portland", "portland-us-or"]]}
+{"text": "Our band played Cambridge, Norwich and York.", "gold": [["Cambridge", "cambridge-gb"], ["Norwich", "norwich-gb"], ["York", "york-gb"]]}
+{"text": "The family left Alexandria for Athens in 1950.", "gold": [["Alexandria", "alexandria-eg"], ["Athens", "athens-gr"]]}
+{"text": "We visited Rome and Athens on a road trip through Georgia.", "gold": [["Rome", "rome-us-ga"], ["Athens", "athens-us-ga"], ["Georgia", "us-ga"]]}
+{"text": "The capital Tbilisi is the cultural heart of Georgia.", "gold": [["Tbilisi", "tbilisi-ge"], ["Georgia", "country-ge"]]}
